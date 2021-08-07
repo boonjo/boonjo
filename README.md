@@ -5,4 +5,4 @@ This is the place where I try out new things
 - 🌱 I’m currently learning Docker
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boonjo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boonjo)](https://github.com/anuraghazra/github-readme-stats)
