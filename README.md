@@ -2,7 +2,7 @@
 This is a place where I try out new things
 
 - 🔭 I’m currently working on something, probably
-- 🌱 I’m currently learning Docker
+- 🌱 I should be studying...
 
 
 
