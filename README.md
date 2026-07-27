@@ -2,6 +2,6 @@
 
 ### Welcome to my playground
 
-<img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-wanderer/sticker_4.png" alt="Wanderer waving hi" width="183"/>
+<img src="https://www.pngarts.com/files/8/Doraemon-PNG-Transparent-Image.png" alt="Wanderer waving hi" width="200"/>
 
 
